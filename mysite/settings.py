@@ -121,8 +121,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
-EMAIL_HOST = 'smtp.sendgrid.net'
-EMAIL_HOST_USER = 'app107300932@heroku.com'
-EMAIL_HOST_PASSWORD = '5renyxal6022'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'account@gmail.com'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
